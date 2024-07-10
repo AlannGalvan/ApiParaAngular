@@ -1,0 +1,8 @@
+PARA TRABAJAR CON ANGULAR MATERIA:
+ng add @angular/material@17.3.3
+
+PARA GENERAR SERVICIOS :
+ng generate service Services/Empleado
+
+PARA GENERAR LOS COMPONESTES Y OMITIR LA PRUEBA:
+ng g c Pages/Inicio --skip-tests  
